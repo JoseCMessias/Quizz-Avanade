@@ -1,4 +1,8 @@
 
+<h1>
+  PROJETINHO APENAS WEB PESSOAL(WEB PC E NOTEBOOK), ADICIONADO NOVAS PERGUNTAS E ESQUEMA DE ORGANIZAÇÃO, O ESTAGIÁRIO AINDA NÃO APRENDEU RESPONSIVIDADE
+</h1>
+
 <h1 align="center">
   <img width="700" alt="API-VEICULOS-GITHUB" src="https://github.com/JoseCMessias/Quizz-Avanade/assets/104660308/afd31473-21d0-485b-a2b1-95448f13f016">
 </h1>
@@ -22,7 +26,7 @@ que beneficiarão a todos. Estaremos continuamente atualizando o conteúdo, ent�
 
 ## Como Usar 	&#128377;&#65039;
 
-- [Github Pages](https://josecmessias.github.io/Quizz-Avanade/)
+- [Github Pages](https://lucasadao.github.io/Quizz-Avanade/)
 
 ## Características 		&#128221;
 
